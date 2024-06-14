@@ -1,3 +1,4 @@
+//Calculadora del crecimiento de una inversión de acuerdo al interés anual y la cantidad de meses de ahorro
 
 function calcularCrecimiento(inversionInicial, tasaDeInteres, meses) {
     tasaDeInteres /= 100;
